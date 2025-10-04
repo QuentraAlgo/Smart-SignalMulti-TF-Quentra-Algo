@@ -1,11 +1,12 @@
-<div align="center">
+# 🌆 QUENTRA ALGO
 
-# 🌆 QUENTRA ALGO 🌆
-### *Advanced Multi-Timeframe Smart Signal Indicator*
+### Advanced Multi-Timeframe Smart Signal Indicator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=POWERFUL+TRADING+INDICATOR;MULTI-TIMEFRAME+ANALYSIS;SMART+ALGORITHMIC+TRADING" alt="Typing SVG" />
+**Powerful Trading Indicator | Multi-Timeframe Analysis | Smart Algorithmic Trading**
 
 ---
+
+## 📱 Connect With Us
 
 [![GitHub](https://img.shields.io/badge/GitHub-QuentraAlgo-00f7ff?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=0d1117)](https://github.com/QuentraAlgo)
 [![TikTok](https://img.shields.io/badge/TikTok-@quentraalgo-ff0080?style=for-the-badge&logo=tiktok&logoColor=ff0080&labelColor=0d1117)](https://www.tiktok.com/@quentraalgo)
@@ -19,152 +20,87 @@
 
 ---
 
-```
-  ██████  ██    ██ ███████ ███    ██ ████████ ██████   █████  
- ██    ██ ██    ██ ██      ████   ██    ██    ██   ██ ██   ██ 
- ██    ██ ██    ██ █████   ██ ██  ██    ██    ██████  ███████ 
- ██ ▄▄ ██ ██    ██ ██      ██  ██ ██    ██    ██   ██ ██   ██ 
-  ██████   ██████  ███████ ██   ████    ██    ██   ██ ██   ██ 
-     ▀▀                                                        
-        ▄▀█ █░░ █▀▀ █▀█
-        █▀█ █▄▄ █▄█ █▄█
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
----
-
-## 🎯 OVERVIEW
+## 🎯 Overview
 
 **Quentra Algo** is a cutting-edge Pine Script indicator designed for **TradingView** that combines multiple technical analysis tools into one powerful smart signal system. Built with advanced algorithms for multi-timeframe analysis, trend detection, and risk management.
 
-<div align="center">
+### Key Features
 
-```ascii
-                    🚀 KEY FEATURES 🚀                       
-
-  ⚡ Multi-Timeframe Analysis (M1, M5, M15, M30, 1H, 4H, D1)
-  🎯 Smart Buy/Sell Signals with SuperTrend Algorithm        
-  📊 Real-time Smart Dashboard                               
-  🌊 Trend Cloud & Cirrus Cloud Visualization                
-  💎 Support & Resistance Zone Detection                     
-  🎲 Risk Management with TP/SL Areas                        
-  🔔 Customizable Alert System                               
-  🌈 Advanced Bar Coloring (Trend/Gradient)                  
-```
-
-</div>
+- ⚡ Multi-Timeframe Analysis (M1, M5, M15, M30, 1H, 4H, D1)
+- 🎯 Smart Buy/Sell Signals with SuperTrend Algorithm
+- 📊 Real-time Smart Dashboard
+- 🌊 Trend Cloud & Cirrus Cloud Visualization
+- 💎 Support & Resistance Zone Detection
+- 🎲 Risk Management with TP/SL Areas
+- 🔔 Customizable Alert System
+- 🌈 Advanced Bar Coloring (Trend/Gradient)
 
 ---
 
-## 📦 INSTALLATION
+## 📦 Installation
 
-### **Step 1: Access TradingView**
+### Step 1: Access TradingView
+Navigate to https://www.tradingview.com
 
-```bash
-# Navigate to TradingView
-🌐 https://www.tradingview.com
-```
+### Step 2: Open Pine Editor
+Click on "Pine Editor" at the bottom of the chart, then select: New → Blank Indicator
 
-### **Step 2: Open Pine Editor**
-
-```bash
-# Click on "Pine Editor" at the bottom of the chart
-📝 Pine Editor → New → Blank Indicator
-```
-
-### **Step 3: Copy & Paste**
-
-```bash
-# Copy the entire script code
-# Paste into Pine Editor
-# Click "Add to Chart"
-```
-
-<div align="center">
+### Step 3: Copy & Paste
+Copy the entire script code, paste into Pine Editor, and click "Add to Chart"
 
 ![Installation](https://img.shields.io/badge/Installation-Easy-00f7ff?style=for-the-badge&logoColor=00f7ff&labelColor=0d1117)
 ![Version](https://img.shields.io/badge/Pine_Script-v5-ff0080?style=for-the-badge&logoColor=ff0080&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Active-00f7ff?style=for-the-badge&logoColor=00f7ff&labelColor=0d1117)
 
-</div>
-
 ---
 
-## ⚙️ CONFIGURATION
+## ⚙️ Configuration
 
-### **📊 Dashboard Settings**
+### 📊 Dashboard Settings
 
 | Parameter | Type | Description |
 |-----------|------|-------------|
-| `Show Smart Panel` | Boolean | Enable/Disable dashboard display |
-| `Location` | String | Position (9 options available) |
-| `Size` | String | Panel size (Tiny/Small/Normal/Large) |
+| Show Smart Panel | Boolean | Enable/Disable dashboard display |
+| Location | String | Position (9 options available) |
+| Size | String | Panel size (Tiny/Small/Normal/Large) |
 
-### **🎯 Signal Settings**
-
-| Parameter | Type | Default | Description |
-|-----------|------|---------|-------------|
-| `Show Signals` | Boolean | `true` | Display buy/sell signals |
-| `Sensitivity` | Float | `2.0` | Signal sensitivity (1-20) |
-| `Smart Signals Only` | Boolean | `false` | Filter for smart signals only |
-| `Bar Coloring` | String | `Trend` | Gradient or Trend mode |
-
-### **💰 Risk Management**
+### 🎯 Signal Settings
 
 | Parameter | Type | Default | Description |
 |-----------|------|---------|-------------|
-| `TP/SL Areas` | Boolean | `false` | Show take profit/stop loss |
-| `Distance` | Integer | `20` | Label distance |
-| `Decimals` | Integer | `2` | Price decimals (1-8) |
-| `Risk %` | Integer | `1` | Risk percentage |
-| `ATR Length` | Integer | `14` | ATR calculation period |
+| Show Signals | Boolean | true | Display buy/sell signals |
+| Sensitivity | Float | 2.0 | Signal sensitivity (1-20) |
+| Smart Signals Only | Boolean | false | Filter for smart signals only |
+| Bar Coloring | String | Trend | Gradient or Trend mode |
 
-### **🎨 Indicator Overlay**
+### 💰 Risk Management
 
-```yaml
-Features:
-  - 🌥️ Trend Cloud: Long-term trend visualization
-  - 📈 Trend Follower: Mid-term trend tracker
-  - ☁️ Comulus Cloud: Short-term cloud system
-  - 🌫️ Cirrus Cloud: Ultra-short term signals
-  - 🛡️ Smart Trail: Dynamic trailing stop
-  - 📊 Trend Lines: Automatic trendline detection
-  - 🎯 Support & Resistance: Zone identification
-```
+| Parameter | Type | Default | Description |
+|-----------|------|---------|-------------|
+| TP/SL Areas | Boolean | false | Show take profit/stop loss |
+| Distance | Integer | 20 | Label distance |
+| Decimals | Integer | 2 | Price decimals (1-8) |
+| Risk % | Integer | 1 | Risk percentage |
+| ATR Length | Integer | 14 | ATR calculation period |
+
+### 🎨 Indicator Overlay
+
+**Features:**
+- 🌥️ Trend Cloud: Long-term trend visualization
+- 📈 Trend Follower: Mid-term trend tracker
+- ☁️ Comulus Cloud: Short-term cloud system
+- 🌫️ Cirrus Cloud: Ultra-short term signals
+- 🛡️ Smart Trail: Dynamic trailing stop
+- 📊 Trend Lines: Automatic trendline detection
+- 🎯 Support & Resistance: Zone identification
 
 ---
 
-## 🎮 FEATURES BREAKDOWN
+## 🎮 Features Breakdown
 
-<div align="center">
+### 🌟 Multi-Timeframe Analysis
 
-### **🌟 MULTI-TIMEFRAME ANALYSIS**
-
-<table>
-<tr>
-<td>
-
-```
-╔═════════════╗
-║   TIMEFRAME    ║
-╠═════════════╣
-║ M1  │ ● BULL  ║
-║ M5  │ ● BULL  ║
-║ M15 │ ● BEAR  ║
-║ M30 │ ● BULL  ║
-║ 1H  │ ● BULL  ║
-║ 4H  │ ● BEAR  ║
-║ D1  │ ● BULL  ║
-╚════════════╝
-```
-
-</td>
-<td>
-
-**Real-time trend analysis across:**
+Real-time trend analysis across multiple timeframes:
 - 🔹 M1 (1 Minute)
 - 🔹 M5 (5 Minutes)
 - 🔹 M15 (15 Minutes)
@@ -173,105 +109,54 @@ Features:
 - 🔹 4H (4 Hours)
 - 🔹 D1 (Daily)
 
-</td>
-</tr>
-</table>
+### 🎯 Smart Signal System
 
-</div>
+**Signal Types:**
+- **SMART BUY** → Price crosses above SuperTrend + Above EMA200
+- **BUY** → Price crosses above SuperTrend
+- **SMART SELL** → Price crosses below SuperTrend + Below EMA200
+- **SELL** → Price crosses below SuperTrend
 
----
-
-### **🎯 SMART SIGNAL SYSTEM**
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[📊 Price Data] --> B{SuperTrend}
-    B --> C[🎯 Signal Generator]
-    C --> D[📈 Smart Buy]
-    C --> E[📉 Smart Sell]
-    D --> F[✅ Confirmation]
-    E --> F
-    F --> G[🔔 Alert]
-```
-
-</div>
-
-#### **Signal Types:**
-
-```diff
-+ SMART BUY  → Price crosses above SuperTrend + Above EMA200
-+ BUY        → Price crosses above SuperTrend
-+ SMART SELL → Price crosses below SuperTrend + Below EMA200
-+ SELL       → Price crosses below SuperTrend
-```
-
----
-
-### **📊 SMART DASHBOARD**
+### 📊 Smart Dashboard
 
 The dashboard provides real-time market intelligence:
 
-<div align="center">
-
 | Metric | Description |
 |--------|-------------|
-| **Current Position** | Active trade direction (Buy/Sell) |
-| **Sensitivity** | Current signal sensitivity level |
-| **Market State** | Trending/Ranging/No Trend |
-| **Volatility** | Market volatility percentage |
-| **Institutional Activity** | Active/Inactive detection |
-| **Current Session** | Trading session (Tokyo/London/NY/Sydney) |
-| **Trend Pressure** | Bullish/Bearish/Flat |
+| Current Position | Active trade direction (Buy/Sell) |
+| Sensitivity | Current signal sensitivity level |
+| Market State | Trending/Ranging/No Trend |
+| Volatility | Market volatility percentage |
+| Institutional Activity | Active/Inactive detection |
+| Current Session | Trading session (Tokyo/London/NY/Sydney) |
+| Trend Pressure | Bullish/Bearish/Flat |
 
-</div>
+### 🌊 Cloud Systems
 
----
+**1. Trend Cloud (Long-term)**
+- Hull Moving Average based
+- Period: 600
+- Identifies major trend direction
+- Color: Cyan (Bullish) / Red (Bearish)
 
-### **🌊 CLOUD SYSTEMS**
+**2. Comulus Cloud (Mid-term)**
+- ALMA based (310 period)
+- Offset: 0.85, Sigma: 32
+- Medium-term trend confirmation
 
-#### **1. Trend Cloud (Long-term)**
-```css
-• Hull Moving Average based
-• Period: 600
-• Identifies major trend direction
-• Color: Cyan (Bullish) / Red (Bearish)
-```
+**3. Cirrus Cloud (Short-term)**
+- Dual Range Filter
+- Fast response to price changes
+- Scalping opportunities
 
-#### **2. Comulus Cloud (Mid-term)**
-```css
-• ALMA based (310 period)
-• Offset: 0.85, Sigma: 32
-• Medium-term trend confirmation
-```
+### 🎲 Risk Management System
 
-#### **3. Cirrus Cloud (Short-term)**
-```css
-• Dual Range Filter
-• Fast response to price changes
-• Scalping opportunities
-```
-
----
-
-### **🎲 RISK MANAGEMENT SYSTEM**
-
-<div align="center">
-
-```
-┌───────────────────────────────┐
-│     AUTOMATED TP/SL LEVELS    │
-├───────────────────────────────┤
-│ ENTRY  →  Last Trade Price    │
-│ SL     →  ATR-based Stop Loss │
-│ TP 1:1 →  1× Risk Reward      │
-│ TP 2:1 →  2× Risk Reward      │
-│ TP 3:1 →  3× Risk Reward      │
-└───────────────────────────────┘
-```
-
-</div>
+**Automated TP/SL Levels:**
+- ENTRY → Last Trade Price
+- SL → ATR-based Stop Loss
+- TP 1:1 → 1× Risk Reward
+- TP 2:1 → 2× Risk Reward
+- TP 3:1 → 3× Risk Reward
 
 **Calculation:**
 - Stop Loss = Entry ± (ATR × Risk Multiplier)
@@ -279,302 +164,187 @@ The dashboard provides real-time market intelligence:
 
 ---
 
-## 🔔 ALERT SYSTEM
+## 🔔 Alert System
 
 Configure custom alerts for:
+- ✅ Buy Signal Triggered
+- ✅ Sell Signal Triggered
+- ✅ Trendline Breakout
+- ✅ Support/Resistance Break
 
-```javascript
-✅ Buy Signal Triggered
-✅ Sell Signal Triggered
-✅ Trendline Breakout
-✅ Support/Resistance Break
-```
-
-**Setup:**
-1. Right-click on chart
-2. Select "Add Alert"
-3. Choose condition
-4. Set notification preferences
+**Setup:** Right-click on chart → Select "Add Alert" → Choose condition → Set notification preferences
 
 ---
 
-## 📈 USAGE GUIDE
+## 📈 Usage Guide
 
-### **For Scalpers (M1-M5)**
+### For Scalpers (M1-M5)
 
-```yaml
-Recommended Settings:
-  Sensitivity: 3-5
-  Smart Signals Only: false
-  Enable: Cirrus Cloud, Smart Trail
-  Session: High volatility sessions
-```
+**Recommended Settings:**
+- Sensitivity: 3-5
+- Smart Signals Only: false
+- Enable: Cirrus Cloud, Smart Trail
+- Session: High volatility sessions
 
-### **For Day Traders (M15-1H)**
+### For Day Traders (M15-1H)
 
-```yaml
-Recommended Settings:
-  Sensitivity: 2-3
-  Smart Signals Only: true
-  Enable: Comulus Cloud, Trend Lines
-  Focus: Smart Buy/Sell signals
-```
+**Recommended Settings:**
+- Sensitivity: 2-3
+- Smart Signals Only: true
+- Enable: Comulus Cloud, Trend Lines
+- Focus: Smart Buy/Sell signals
 
-### **For Swing Traders (4H-D1)**
+### For Swing Traders (4H-D1)
 
-```yaml
-Recommended Settings:
-  Sensitivity: 1-2
-  Smart Signals Only: true
-  Enable: Trend Cloud, Support/Resistance
-  Strategy: Follow major trends
-```
+**Recommended Settings:**
+- Sensitivity: 1-2
+- Smart Signals Only: true
+- Enable: Trend Cloud, Support/Resistance
+- Strategy: Follow major trends
 
 ---
 
-## 🎨 COLOR SCHEME
-
-<div align="center">
+## 🎨 Color Scheme
 
 | Element | Color | Hex Code |
 |---------|-------|----------|
-| **Bull/Buy** | Cyan | `#0395ff` |
-| **Bear/Sell** | Red | `#ff0002` |
-| **Ranging** | Purple | `#4b148d` |
-| **Support** | Cyan (transparent) | `#0395ff4d` |
-| **Resistance** | Red (transparent) | `#ff00024d` |
-| **Dashboard BG** | Dark | `#1e222d` |
-
-</div>
+| Bull/Buy | Cyan | #0395ff |
+| Bear/Sell | Red | #ff0002 |
+| Ranging | Purple | #4b148d |
+| Support | Cyan (transparent) | #0395ff4d |
+| Resistance | Red (transparent) | #ff00024d |
+| Dashboard BG | Dark | #1e222d |
 
 ---
 
-## 🛠️ TECHNICAL SPECIFICATIONS
+## 🛠️ Technical Specifications
 
-### **Core Algorithms:**
+### Core Algorithms
 
-```yaml
-SuperTrend:
-  - ATR-based calculation
-  - Adaptive bands
-  - Direction filtering
+**SuperTrend:**
+- ATR-based calculation
+- Adaptive bands
+- Direction filtering
 
-ADX (Average Directional Index):
-  - Period: 15
-  - DI Length: 15
-  - Sideways threshold: 15
+**ADX (Average Directional Index):**
+- Period: 15
+- DI Length: 15
+- Sideways threshold: 15
 
-Range Filter:
-  - Smoothing: 22
-  - Multiplier: 6
-  - Noise reduction
+**Range Filter:**
+- Smoothing: 22
+- Multiplier: 6
+- Noise reduction
 
-Volume Analysis:
-  - Average: 21 periods
-  - Filter: 144% threshold
-  - Institutional detection
-```
+**Volume Analysis:**
+- Average: 21 periods
+- Filter: 144% threshold
+- Institutional detection
 
-### **Session Times (UTC):**
+### Session Times (UTC)
 
-```yaml
-New York:   13:00 - 22:00
-London:     07:00 - 16:00
-Tokyo:      00:00 - 09:00
-Sydney:     21:00 - 06:00
-```
+- **New York:** 13:00 - 22:00
+- **London:** 07:00 - 16:00
+- **Tokyo:** 00:00 - 09:00
+- **Sydney:** 21:00 - 06:00
 
 ---
 
-## 📚 STRATEGY EXAMPLES
+## 📚 Strategy Examples
 
-### **🎯 Trend Following Strategy**
+### 🎯 Trend Following Strategy
 
-```markdown
 1. Wait for Smart Buy/Sell signal
 2. Confirm with MTF dashboard (3+ timeframes aligned)
 3. Enter on signal candle close
 4. Set SL at indicator level
 5. Target TP 2:1 or 3:1
-```
 
-### **🌊 Cloud Breakout Strategy**
+### 🌊 Cloud Breakout Strategy
 
-```markdown
 1. Monitor Comulus/Cirrus cloud
 2. Wait for price breakout above/below cloud
 3. Confirm with trend direction
 4. Enter on retest of cloud boundary
 5. Trail stop with Smart Trail
-```
 
-### **📊 Support/Resistance Strategy**
+### 📊 Support/Resistance Strategy
 
-```markdown
 1. Enable S/R zones
 2. Wait for price to reach zone
 3. Look for rejection signals
 4. Enter on confirmation candle
 5. Target opposite S/R zone
-```
 
 ---
 
-## ⚠️ DISCLAIMER
+## ⚠️ Disclaimer
 
-<div align="center">
+**IMPORTANT NOTICE**
 
-```
-╔═══════════════════════════════════════════════════════╗
-║              ⚠️  IMPORTANT NOTICE ⚠️                  ║
-╠═══════════════════════════════════════════════════════╣
-║  This indicator is for EDUCATIONAL purposes only.     ║
-║  Trading involves substantial risk of loss.           ║
-║  Past performance does not guarantee future results.  ║
-║  Always use proper risk management.                   ║
-║  Never risk more than you can afford to lose.         ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-</div>
+This indicator is for EDUCATIONAL purposes only. Trading involves substantial risk of loss. Past performance does not guarantee future results. Always use proper risk management. Never risk more than you can afford to lose.
 
 ---
 
-## 🤝 COMMUNITY & SUPPORT
+## 🤝 Community & Support
 
-<div align="center">
+### 📱 Follow Us On Social Media
 
-### **📱 Follow Us On Social Media**
+Connect with us on GitHub, Twitter, Instagram, and YouTube for updates, tutorials, and trading insights.
 
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40" />
-<br><b>GitHub</b>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" />
-<br><b>Twitter</b>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" />
-<br><b>Instagram</b>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40" />
-<br><b>YouTube</b>
-</td>
-</tr>
-</table>
-
-### **🌐 Official Links**
+### 🌐 Official Links
 
 [![Website](https://img.shields.io/badge/🌐_Official_Website-quentraalgo.my.id-00f7ff?style=for-the-badge&labelColor=0d1117)](https://quentraalgo.my.id)
 
-</div>
+---
+
+## 📝 Changelog
+
+**v1.0.0 (Current)**
+- Initial release
+- Multi-timeframe analysis
+- Smart signal system
+- Risk management tools
+- Cloud visualization systems
+- Alert system
+- Smart dashboard
 
 ---
 
-## 📊 STATISTICS
+## 🔮 Roadmap
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=QuentraAlgo&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://github-readme-stats.vercel.app/api?username=QuentraAlgo&show_icons=true&theme=tokyonight&title_color=00f7ff&text_color=ffffff&icon_color=ff0080&bg_color=0d1117&border_color=00f7ff" />
-
-</div>
-
----
-
-## 📝 CHANGELOG
-
-```diff
-v1.0.0 (Current)
-+ Initial release
-+ Multi-timeframe analysis
-+ Smart signal system
-+ Risk management tools
-+ Cloud visualization systems
-+ Alert system
-+ Smart dashboard
-```
+**Coming Soon:**
+- ⚡ AI-powered signal optimization
+- 📊 Backtesting module
+- 🎯 Strategy builder
+- 📱 Mobile app integration
+- 🤖 Telegram bot alerts
+- 📈 Performance analytics
 
 ---
 
-## 🔮 ROADMAP
-
-```yaml
-Coming Soon:
-  - ⚡ AI-powered signal optimization
-  - 📊 Backtesting module
-  - 🎯 Strategy builder
-  - 📱 Mobile app integration
-  - 🤖 Telegram bot alerts
-  - 📈 Performance analytics
-```
-
----
-
-## 💎 SUPPORT THE PROJECT
-
-<div align="center">
+## 💎 Support The Project
 
 If you find this indicator helpful, consider:
-
-⭐ **Star** this repository
-👁️ **Watch** for updates
-🍴 **Fork** for your own modifications
-📢 **Share** with other traders
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
+- ⭐ **Star** this repository
+- 👁️ **Watch** for updates
+- 🍴 **Fork** for your own modifications
+- 📢 **Share** with other traders
 
 ---
 
-## 📄 LICENSE
+## 📄 License
 
-```
 MIT License
 
 Copyright (c) 2025 Quentra Algo
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software.
-```
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
 ---
 
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║     ██████╗ ██╗   ██╗███████╗███╗   ██╗████████╗██████╗  ║
-║    ██╔═══██╗██║   ██║██╔════╝████╗  ██║╚══██╔══╝██╔══██╗ ║
-║    ██║   ██║██║   ██║█████╗  ██╔██╗ ██║   ██║   ██████╔╝ ║
-║    ██║▄▄ ██║██║   ██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██╗ ║
-║    ╚██████╔╝╚██████╔╝███████╗██║ ╚████║   ██║   ██║  ██║ ║
-║     ╚══▀▀═╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ║
-║                                                           ║
-║            ▄▀█ █░░ █▀▀ █▀█   █▀▄▀█ █▄█                   ║
-║            █▀█ █▄▄ █▄█ █▄█   █░▀░█ ░█░                   ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-### **💫 TRADE SMART. TRADE SAFE. TRADE WITH QUENTRA. 💫**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=HAPPY%20TRADING&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
-
----
+### 💫 TRADE SMART. TRADE SAFE. TRADE WITH QUENTRA. 💫
 
 **Made with 💜 by Quentra Algo Team**
 
 [![GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-QuentraAlgo-00f7ff?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=0d1117)](https://github.com/QuentraAlgo)
-
-</div>
