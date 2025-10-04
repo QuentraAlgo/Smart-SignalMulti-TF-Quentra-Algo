@@ -23,8 +23,6 @@
 
 </div>
 
----
-
 ## 🎯 OVERVIEW
 
 **Quentra Algo** is a cutting-edge Pine Script indicator designed for **TradingView** that combines multiple technical analysis tools into one powerful smart signal system. Built with advanced algorithms for multi-timeframe analysis, trend detection, and risk management.
