@@ -7,15 +7,16 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-QuentraAlgo-ff0080?style=for-the-badge&logo=github&logoColor=000000&labelColor=0d1117)](https://github.com/QuentraAlgo)
-[![TikTok](https://img.shields.io/badge/TikTok-@quentraalgo-ff0080?style=for-the-badge&logo=tiktok&logoColor=000000&labelColor=0d1117)](https://www.tiktok.com/@quentraalgo)
-[![Instagram](https://img.shields.io/badge/Instagram-@quentraalgo-ff0080?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=0d1117)](https://www.instagram.com/quentraalgo)
-[![Twitter](https://img.shields.io/badge/Twitter-@quentraalgo-ff0080?style=for-the-badge&logo=x&logoColor=000000&labelColor=0d1117)](https://x.com/quentraalgo)
+[![GitHub](https://img.shields.io/badge/GitHub-QuentraAlgo-ff0080?style=for-the-badge&logo=github&logoColor=ff0080&labelColor=0d1117&color=ff0080&labelColor=0d1117&textColor=000000)](https://github.com/QuentraAlgo)
+[![TikTok](https://img.shields.io/badge/TikTok-@quentraalgo-ff0080?style=for-the-badge&logo=tiktok&logoColor=ff0080&labelColor=0d1117&color=ff0080&labelColor=0d1117&textColor=000000)](https://www.tiktok.com/@quentraalgo)
+[![Instagram](https://img.shields.io/badge/Instagram-@quentraalgo-ff0080?style=for-the-badge&logo=instagram&logoColor=ff0080&labelColor=0d1117&color=ff0080&labelColor=0d1117&textColor=000000)](https://www.instagram.com/quentraalgo)
+[![Twitter](https://img.shields.io/badge/Twitter-@quentraalgo-ff0080?style=for-the-badge&logo=x&logoColor=ff0080&labelColor=0d1117&color=ff0080&labelColor=0d1117&textColor=000000)](https://x.com/quentraalgo)
 
-[![Threads](https://img.shields.io/badge/Threads-@quentraalgo-ff0080?style=for-the-badge&logo=threads&logoColor=000000&labelColor=0d1117)](https://www.threads.com/@quentraalgo)
-[![Facebook](https://img.shields.io/badge/Facebook-quentraalgo-ff0080?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=0d1117)](https://www.facebook.com/quentraalgo)
-[![YouTube](https://img.shields.io/badge/YouTube-@quentraalgo-ff0080?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=0d1117)](https://youtube.com/@quentraalgo)
-[![Website](https://img.shields.io/badge/Website-quentraalgo.my.id-ff0080?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=0d1117)](https://quentraalgo.my.id)
+[![Threads](https://img.shields.io/badge/Threads-@quentraalgo-ff0080?style=for-the-badge&logo=threads&logoColor=ff0080&labelColor=0d1117&color=ff0080&labelColor=0d1117&textColor=000000)](https://www.threads.com/@quentraalgo)
+[![Facebook](https://img.shields.io/badge/Facebook-quentraalgo-ff0080?style=for-the-badge&logo=facebook&logoColor=ff0080&labelColor=0d1117&color=ff0080&labelColor=0d1117&textColor=000000)](https://www.facebook.com/quentraalgo)
+[![YouTube](https://img.shields.io/badge/YouTube-@quentraalgo-ff0080?style=for-the-badge&logo=youtube&logoColor=ff0080&labelColor=0d1117&color=ff0080&labelColor=0d1117&textColor=000000)](https://youtube.com/@quentraalgo)
+[![Website](https://img.shields.io/badge/Website-quentraalgo.my.id-ff0080?style=for-the-badge&logo=googlechrome&logoColor=ff0080&labelColor=0d1117&color=ff0080&labelColor=0d1117&textColor=000000)](https://quentraalgo.my.id)
+
 ---
 
 ```
