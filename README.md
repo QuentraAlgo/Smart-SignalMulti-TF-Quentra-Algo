@@ -11,7 +11,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok--000000?style=for-the-badge&logo=tiktok&logoColor=ff0080&labelColor=000000)](https://www.tiktok.com/@quentraalgo)
 [![Instagram](https://img.shields.io/badge/Instagram--000000?style=for-the-badge&logo=instagram&logoColor=ff0080&labelColor=000000)](https://www.instagram.com/quentraalgo)
 [![Twitter](https://img.shields.io/badge/Twitter--000000?style=for-the-badge&logo=x&logoColor=ff0080&labelColor=000000)](https://x.com/quentraalgo)
-
 [![Threads](https://img.shields.io/badge/Threads--000000?style=for-the-badge&logo=threads&logoColor=ff0080&labelColor=000000)](https://www.threads.com/@quentraalgo)
 [![Facebook](https://img.shields.io/badge/Facebook--000000?style=for-the-badge&logo=facebook&logoColor=ff0080&labelColor=000000)](https://www.facebook.com/quentraalgo)
 [![YouTube](https://img.shields.io/badge/YouTube--000000?style=for-the-badge&logo=youtube&logoColor=ff0080&labelColor=000000)](https://youtube.com/@quentraalgo)
