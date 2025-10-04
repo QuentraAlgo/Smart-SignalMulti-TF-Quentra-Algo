@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=CYBERPUNK+TRADING+SIGNALS;MULTI-TIMEFRAME+ANALYSIS;SMART+ALGORITHMIC+TRADING" alt="Typing SVG" />
 
-</div>
+---
 
 [![GitHub](https://img.shields.io/badge/GitHub-QuentraAlgo-00f7ff?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=0d1117)](https://github.com/QuentraAlgo)
 [![TikTok](https://img.shields.io/badge/TikTok-@quentraalgo-ff0080?style=for-the-badge&logo=tiktok&logoColor=ff0080&labelColor=0d1117)](https://www.tiktok.com/@quentraalgo)
@@ -17,7 +17,24 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@quentraalgo-ff0080?style=for-the-badge&logo=youtube&logoColor=ff0080&labelColor=0d1117)](https://youtube.com/@quentraalgo)
 [![Website](https://img.shields.io/badge/Website-quentraalgo.my.id-00f7ff?style=for-the-badge&logo=googlechrome&logoColor=00f7ff&labelColor=0d1117)](https://quentraalgo.my.id)
 
+---
+
+```
+  ██████  ██    ██ ███████ ███    ██ ████████ ██████   █████  
+ ██    ██ ██    ██ ██      ████   ██    ██    ██   ██ ██   ██ 
+ ██    ██ ██    ██ █████   ██ ██  ██    ██    ██████  ███████ 
+ ██ ▄▄ ██ ██    ██ ██      ██  ██ ██    ██    ██   ██ ██   ██ 
+  ██████   ██████  ███████ ██   ████    ██    ██   ██ ██   ██ 
+     ▀▀                                                        
+        ▄▀█ █░░ █▀▀ █▀█
+        █▀█ █▄▄ █▄█ █▄█
+```
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+---
 
 ## 🎯 OVERVIEW
 
@@ -133,9 +150,9 @@ Features:
 <td>
 
 ```
-╔════════════════╗
+╔═════════════╗
 ║   TIMEFRAME    ║
-╠════════════════╣
+╠═════════════╣
 ║ M1  │ ● BULL  ║
 ║ M5  │ ● BULL  ║
 ║ M15 │ ● BEAR  ║
@@ -143,7 +160,7 @@ Features:
 ║ 1H  │ ● BULL  ║
 ║ 4H  │ ● BEAR  ║
 ║ D1  │ ● BULL  ║
-╚════════════════╝
+╚════════ ════╝
 ```
 
 </td>
