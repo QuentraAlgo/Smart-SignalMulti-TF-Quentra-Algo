@@ -7,7 +7,7 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-QuentraAlgo-00f7ff?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=0d1117)](https://github.com/QuentraAlgo)
+[![GitHub](https://img.shields.io/badge/GitHub-QuentraAlgo-ff0080?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=0d1117)](https://github.com/QuentraAlgo)
 [![TikTok](https://img.shields.io/badge/TikTok-@quentraalgo-ff0080?style=for-the-badge&logo=tiktok&logoColor=ff0080&labelColor=0d1117)](https://www.tiktok.com/@quentraalgo)
 [![Instagram](https://img.shields.io/badge/Instagram-@quentraalgo-ff0080?style=for-the-badge&logo=instagram&logoColor=ff0080&labelColor=0d1117)](https://www.instagram.com/quentraalgo)
 [![Twitter](https://img.shields.io/badge/Twitter-@quentraalgo-00f7ff?style=for-the-badge&logo=x&logoColor=00f7ff&labelColor=0d1117)](https://x.com/quentraalgo)
