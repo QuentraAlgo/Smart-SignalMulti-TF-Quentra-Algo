@@ -3,7 +3,7 @@
 # 🌆 QUENTRA ALGO 🌆
 ### *Advanced Multi-Timeframe Smart Signal Indicator*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=CYBERPUNK+TRADING+SIGNALS;MULTI-TIMEFRAME+ANALYSIS;SMART+ALGORITHMIC+TRADING" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=POWERFUL+TRADING+SIGNALS;MULTI-TIMEFRAME+ANALYSIS;SMART+ALGORITHMIC+TRADING" alt="Typing SVG" />
 
 ---
 
@@ -43,18 +43,18 @@
 <div align="center">
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    🚀 KEY FEATURES 🚀                        ║
-╠══════════════════════════════════════════════════════════════╣
+╔═══════════════════════════════════════════════════╗
+║                    🚀 KEY FEATURES 🚀                       ║
+╠═══════════════════════════════════════════════════╣
 ║  ⚡ Multi-Timeframe Analysis (M1, M5, M15, M30, 1H, 4H, D1) ║
 ║  🎯 Smart Buy/Sell Signals with SuperTrend Algorithm        ║
-║  📊 Real-time Smart Dashboard                                ║
-║  🌊 Trend Cloud & Cirrus Cloud Visualization                 ║
-║  💎 Support & Resistance Zone Detection                      ║
-║  🎲 Risk Management with TP/SL Areas                         ║
-║  🔔 Customizable Alert System                                ║
-║  🌈 Advanced Bar Coloring (Trend/Gradient)                   ║
-╚══════════════════════════════════════════════════════════════╝
+║  📊 Real-time Smart Dashboard                               ║
+║  🌊 Trend Cloud & Cirrus Cloud Visualization                ║
+║  💎 Support & Resistance Zone Detection                     ║
+║  🎲 Risk Management with TP/SL Areas                        ║
+║  🔔 Customizable Alert System                               ║
+║  🌈 Advanced Bar Coloring (Trend/Gradient)                  ║
+╚═══════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -150,9 +150,9 @@ Features:
 <td>
 
 ```
-╔════════════════╗
+╔═════════════╗
 ║   TIMEFRAME    ║
-╠════════════════╣
+╠═════════════╣
 ║ M1  │ ● BULL  ║
 ║ M5  │ ● BULL  ║
 ║ M15 │ ● BEAR  ║
@@ -160,7 +160,7 @@ Features:
 ║ 1H  │ ● BULL  ║
 ║ 4H  │ ● BEAR  ║
 ║ D1  │ ● BULL  ║
-╚════════════════╝
+╚════════════╝
 ```
 
 </td>
@@ -262,15 +262,15 @@ The dashboard provides real-time market intelligence:
 <div align="center">
 
 ```
-┌─────────────────────────────────────┐
-│      AUTOMATED TP/SL LEVELS         │
-├─────────────────────────────────────┤
-│  ENTRY  →  Last Trade Price         │
-│  SL     →  ATR-based Stop Loss      │
-│  TP 1:1 →  1x Risk Reward           │
-│  TP 2:1 →  2x Risk Reward           │
-│  TP 3:1 →  3x Risk Reward           │
-└─────────────────────────────────────┘
+┌───────────────────────────────┐
+│     AUTOMATED TP/SL LEVELS    │
+├───────────────────────────────┤
+│ ENTRY  →  Last Trade Price    │
+│ SL     →  ATR-based Stop Loss │
+│ TP 1:1 →  1× Risk Reward      │
+│ TP 2:1 →  2× Risk Reward      │
+│ TP 3:1 →  3× Risk Reward      │
+└───────────────────────────────┘
 ```
 
 </div>
