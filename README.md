@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=CYBERPUNK+TRADING+SIGNALS;MULTI-TIMEFRAME+ANALYSIS;SMART+ALGORITHMIC+TRADING" alt="Typing SVG" />
 
 </div>
----
 
 [![GitHub](https://img.shields.io/badge/GitHub-QuentraAlgo-00f7ff?style=for-the-badge&logo=github&logoColor=00f7ff&labelColor=0d1117)](https://github.com/QuentraAlgo)
 [![TikTok](https://img.shields.io/badge/TikTok-@quentraalgo-ff0080?style=for-the-badge&logo=tiktok&logoColor=ff0080&labelColor=0d1117)](https://www.tiktok.com/@quentraalgo)
