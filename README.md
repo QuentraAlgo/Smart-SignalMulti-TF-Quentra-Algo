@@ -1,7 +1,8 @@
-<div align="center">
 
-# 🌆 Smart Signal Multi Time Frame 🌆
+# Smart Signal Multi Time Frame
 ### *Advanced Multi-Timeframe Smart Signal Indicator*
+
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=ff0080&center=true&vCenter=true&width=940&lines=POWERFUL+TRADING+SIGNALS;MULTI-TIMEFRAME+ANALYSIS;SMART+ALGORITHMIC+TRADING" alt="Typing SVG" />
 
