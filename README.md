@@ -77,7 +77,7 @@
 
 <div align="center">
 
-![Installation](https://img.shields.io/badge/Installation-Easy-00f7ff?style=for-the-badge&logoColor=00f7ff&labelColor=0d1117)
+![Installation](https://img.shields.io/badge/Installation-Easy-00f7ff?style=for-the-badge&logoColor=000000&labelColor=0d1117)
 ![Version](https://img.shields.io/badge/Pine_Script-v5-ff0080?style=for-the-badge&logoColor=ff0080&labelColor=0d1117)
 ![Status](https://img.shields.io/badge/Status-Active-00f7ff?style=for-the-badge&logoColor=00f7ff&labelColor=0d1117)
 
