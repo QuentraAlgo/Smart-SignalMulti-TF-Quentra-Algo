@@ -140,17 +140,16 @@ Features:
 <td>
 
 ```
-╔═════════════╗
-║   TIMEFRAME    ║
-╠═════════════╣
-║ M1  │ ● BULL  ║
-║ M5  │ ● BULL  ║
-║ M15 │ ● BEAR  ║
-║ M30 │ ● BULL  ║
-║ 1H  │ ● BULL  ║
-║ 4H  │ ● BEAR  ║
-║ D1  │ ● BULL  ║
-╚════════ ════╝
+
+   TIMEFRAME    
+
+ M1  │ ● BULL  
+ M5  │ ● BULL  
+ M15 │ ● BEAR  
+ M30 │ ● BULL  
+ 1H  │ ● BULL  
+ 4H  │ ● BEAR  
+ D1  │ ● BULL  
 ```
 
 </td>
