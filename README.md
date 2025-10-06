@@ -558,6 +558,6 @@ copies of the Software.
 
 **Made with 💜 by Quentra Algo Team**
 
-[![GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-QuentraAlgo-00f7ff?style=for-the-badge&logo=github&logoColor=ff0080&labelColor=0d1117)](https://github.com/QuentraAlgo)
+[![GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-QuentraAlgo-ff0080?style=for-the-badge&logo=github&logoColor=ff0080&labelColor=0d1117)](https://github.com/QuentraAlgo)
 
 </div>
