@@ -33,18 +33,16 @@
 <div align="center">
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    🚀 KEY FEATURES 🚀                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  ⚡ Multi-Timeframe Analysis (M1, M5, M15, M30, 1H, 4H, D1) ║
-║  🎯 Smart Buy/Sell Signals with SuperTrend Algorithm        ║
-║  📊 Real-time Smart Dashboard                                ║
-║  🌊 Trend Cloud & Cirrus Cloud Visualization                 ║
-║  💎 Support & Resistance Zone Detection                      ║
-║  🎲 Risk Management with TP/SL Areas                         ║
-║  🔔 Customizable Alert System                                ║
-║  🌈 Advanced Bar Coloring (Trend/Gradient)                   ║
-╚══════════════════════════════════════════════════════════════╝
+                    🚀 KEY FEATURES 🚀                         
+
+  ⚡ Multi-Timeframe Analysis (M1, M5, M15, M30, 1H, 4H, D1) 
+  🎯 Smart Buy/Sell Signals with SuperTrend Algorithm        
+  📊 Real-time Smart Dashboard                                
+  🌊 Trend Cloud & Cirrus Cloud Visualization                 
+  💎 Support & Resistance Zone Detection                      
+  🎲 Risk Management with TP/SL Areas                         
+  🔔 Customizable Alert System                                
+  🌈 Advanced Bar Coloring (Trend/Gradient)                 
 ```
 
 </div>
