@@ -174,13 +174,13 @@ Features:
 
 ```mermaid
 graph LR
-    A[📊 Price Data] --> B{SuperTrend}
-    B --> C[🎯 Signal Generator]
-    C --> D[📈 Smart Buy]
-    C --> E[📉 Smart Sell]
-    D --> F[✅ Confirmation]
-    E --> F
-    F --> G[🔔 Alert]
+ A[📊 Price Data] --> B{SuperTrend}
+ B --> C[🎯 Signal Generator]
+ C --> D[📈 Smart Buy]
+ C --> E[📉 Smart Sell]
+ D --> F[✅ Confirmation]
+ E --> F
+ F --> G[🔔 Alert]
 ```
 
 #### **Signal Types:**
