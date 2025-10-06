@@ -245,15 +245,13 @@ The dashboard provides real-time market intelligence:
 <div align="center">
 
 ```
-┌─────────────────────────────────────┐
-│      AUTOMATED TP/SL LEVELS         │
-├─────────────────────────────────────┤
-│  ENTRY  →  Last Trade Price         │
-│  SL     →  ATR-based Stop Loss      │
-│  TP 1:1 →  1x Risk Reward           │
-│  TP 2:1 →  2x Risk Reward           │
-│  TP 3:1 →  3x Risk Reward           │
-└─────────────────────────────────────┘
+      AUTOMATED TP/SL LEVELS         
+
+  ENTRY  →  Last Trade Price         
+  SL     →  ATR-based Stop Loss      
+  TP 1:1 →  1x Risk Reward           
+  TP 2:1 →  2x Risk Reward           
+  TP 3:1 →  3x Risk Reward           
 ```
 
 </div>
