@@ -172,8 +172,6 @@ Features:
 
 ### **🎯 SMART SIGNAL SYSTEM**
 
-<div align="center">
-
 ```mermaid
 graph LR
     A[📊 Price Data] --> B{SuperTrend}
@@ -184,8 +182,6 @@ graph LR
     E --> F
     F --> G[🔔 Alert]
 ```
-
-</div>
 
 #### **Signal Types:**
 
