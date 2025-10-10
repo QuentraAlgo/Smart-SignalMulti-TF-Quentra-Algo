@@ -408,15 +408,12 @@ Sydney:     21:00 - 06:00
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║              ⚠️  IMPORTANT NOTICE ⚠️                  ║
-╠═══════════════════════════════════════════════════════╣
-║  This indicator is for EDUCATIONAL purposes only.     ║
-║  Trading involves substantial risk of loss.           ║
-║  Past performance does not guarantee future results.  ║
-║  Always use proper risk management.                   ║
-║  Never risk more than you can afford to lose.         ║
-╚═══════════════════════════════════════════════════════╝
+⚠️  IMPORTANT NOTICE ⚠️
+This indicator is for EDUCATIONAL purposes only.
+Trading involves substantial risk of loss.
+Past performance does not guarantee future results.
+Always use proper risk management.
+Never risk more than you can afford to lose.
 ```
 
 </div>
