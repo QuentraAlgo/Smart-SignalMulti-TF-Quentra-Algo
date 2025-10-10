@@ -452,7 +452,7 @@ Sydney:     21:00 - 06:00
 
 ### **🌐 Official Links**
 
-[![Website](https://img.shields.io/badge/🌐_Official_Website-quentraalgo.my.id-00f7ff?style=for-the-badge&labelColor=0d1117)](https://quentraalgo.my.id)
+[![Website](https://img.shields.io/badge/🌐_Official_Website-quentraalgo.my.id-ff0080?style=for-the-badge&labelColor=0d1117)](https://quentraalgo.my.id)
 
 </div>
 
