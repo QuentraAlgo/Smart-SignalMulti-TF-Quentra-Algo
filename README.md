@@ -462,7 +462,7 @@ Sydney:     21:00 - 06:00
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=QuentraAlgo&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=QuentraAlgo&color=ff0080&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://github-readme-stats.vercel.app/api?username=QuentraAlgo&show_icons=true&theme=tokyonight&title_color=00f7ff&text_color=ffffff&icon_color=ff0080&bg_color=0d1117&border_color=00f7ff" />
 
